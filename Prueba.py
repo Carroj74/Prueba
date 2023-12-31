@@ -1,3 +1,4 @@
+//programa para resolver el problema foobar//
 numero=input("Digite el número ")
 ultima=int(numero)%10
 suma=0
